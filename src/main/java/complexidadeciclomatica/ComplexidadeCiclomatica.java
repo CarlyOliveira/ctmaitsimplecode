@@ -2,7 +2,7 @@ package main.java.complexidadeciclomatica;
 
 import java.math.BigDecimal;
 
-public class ComplexidadeCiclmatica {
+public class ComplexidadeCiclomatica {
 
     public static void main(String[] args) {
         var price = BigDecimal.valueOf(Math.random());
